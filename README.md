@@ -1,2 +1,2 @@
-# Soccoban
+# Socoban
 Socoban game
